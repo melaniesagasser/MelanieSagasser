@@ -9,7 +9,6 @@ I am open to open-source projects and anything fun regarding technical writing.
 - 👯 What I’m looking for: Open-source projects that need help documenting REST APIs
 - 🌱 Tools I know about: Postman, Swagger, GitHub, Git, Ixiasoft DITA CCMS, Jira, Confluence
 - 💬 Ask me about: Technical documentation, UI texts, editing, and more
-- 📫 How to reach me: Via [LinkedIn](https://www.linkedin.com/in/melaniesagasser/)
 - 😄 My hobbies: Yoga (I'm also a yoga teacher), reading (especially Sci-Fi, Fantasy, and non-fiction books), taking care of my neighborhood's cats
 
 

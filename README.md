@@ -1,4 +1,6 @@
 ## About Me
+![Beige Minimalist Personal Business LinkedIn Banner](https://github.com/user-attachments/assets/095f86d5-8b10-4234-97fc-203cf66444b8)
+
 
 Hello, I'm Melanie, a senior technical documentation writer and technical translator. 
 I have over 9 years of experience as a technical writer and 4 years as a technical translator in the software industry (Cloud/SaaS).

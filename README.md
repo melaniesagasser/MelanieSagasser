@@ -4,15 +4,25 @@
 
 Hello, I'm Melanie, a senior technical documentation writer and technical translator. 
 I have over 9 years of experience as a technical writer and 4 years as a technical translator in the software industry (Cloud/SaaS).
-I am open to open-source projects and anything fun regarding technical writing.
+I am open to open-source projects and anything fun regarding technical writing. Here's what I offer:
 
+- Technical documentation for software products (guides, release notes, API documentation)
+- Terminology and UI text reviews
+- Editing
+- Copywriting
 
-- 🔭 What I offer: Technical documentation for software products (admin guides, end-user guides, release notes, API documentation, UI text reviews, etc.)
-- 👯 What I’m looking for: Open-source projects that need help documenting REST APIs
-- 🌱 Tools I know about: Postman, Swagger, GitHub, Git, Ixiasoft DITA CCMS, Jira, Confluence
-- 💬 Ask me about: Technical documentation, UI texts, editing, and more
-- 😄 My hobbies: Yoga (I'm also a yoga teacher), reading (especially Sci-Fi, Fantasy, and non-fiction books), taking care of my neighborhood's cats
+## 📚 Portfolio
+Visit my [portfolio](https://github.com/melaniesagasser/Portfolio/blob/main/README.md) for some writing samples.
 
+## 🛠️ Tools
+ - Documentation tools (Ixiasoft DITA CCMS)
+ - Terminology databases
+ - Writing tools (MS Word, Google Docs, Acrolinx, Grammarly, WordPress, Confluence)
+ - API tools (Postman, Swagger)
+ - Other tools (GitHub, Git, Jira)
+
+## 👋🏻 Contact Me
+Let's connect on [LinkedIn](https://www.linkedin.com/in/melaniesagasser/).
 
 <!-- List of Resources on GitHub for writing:
 - Emoji Cheat Sheet at https://www.webfx.com/tools/emoji-cheat-sheet/

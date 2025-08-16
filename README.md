@@ -19,6 +19,7 @@ Visit my [portfolio](https://github.com/melaniesagasser/Portfolio/blob/main/READ
  - Terminology databases
  - Writing tools (MS Word, Google Docs, Acrolinx, Grammarly, WordPress, Confluence)
  - API tools (Postman, Swagger)
+ - Design tools (Figma, Canva)
  - Other tools (GitHub, Git, Jira, MS Excel)
 
 ## 👋🏻 Contact Me

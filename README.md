@@ -4,7 +4,7 @@
 
 Hello, I'm Melanie, a senior technical documentation writer and technical translator. 
 I have over 9 years of experience as a technical writer and 4 years as a technical translator in the software industry (Cloud/SaaS).
-I am open to open-source projects and anything fun regarding technical writing. Here's what I offer:
+Here's what I offer:
 
 - Technical documentation for software products (guides, release notes, API documentation)
 - Terminology and UI text reviews
